@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="SquareFlowView">
+        <attr name="rose_color" format="color"></attr>
+        <attr name="fall_color" format="color"></attr>
+        
+    </declare-styleable>
+</resources>
